@@ -11,7 +11,8 @@ img {
 header {
 padding-top: 59px;
 padding-bottom: 22px;	
-	background-color: #3a7dfd
+background-color: #3a7dfd;
+color: #fff;
 }
 .header-pretitle {
 	margin-top: 102px;
